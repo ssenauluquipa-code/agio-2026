@@ -1,0 +1,16 @@
+# Variables de entorno
+.env
+
+# Carpeta de build
+dist/
+build/
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Otros archivos temporales
+.DS_Store
+Thumbs.db
